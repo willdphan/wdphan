@@ -30,6 +30,7 @@
 - 📫 How to reach me **https://linkedin.com/in/joncanales**
 
 <br>
+<br>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -38,7 +39,6 @@
 - [How to Add Google Fonts to Your Next.js Website](https://enlear.academy/how-to-add-google-fonts-to-your-next-js-website-e62272a0ff57?source=rss-fe04a352a811------2)
 - [Create Your First AWS CDK App to Understand its Power](https://medium.com/geekculture/create-your-first-aws-cdk-app-to-understand-its-power-ba2f0501cfdc?source=rss-fe04a352a811------2)
 - [Add Google Analytics to a Next.js Application](https://enlear.academy/add-google-analytics-to-a-next-js-application-5525892844db?source=rss-fe04a352a811------2)
-<!-- BLOG-POST-LIST:END -->
 
 <br>
 
