@@ -17,6 +17,8 @@
 
 <br>
 
+## About Me
+
 <p align="left">  </p>
 
 - 🌱 I’m currently learning **React.js/JavaScript/SQL**
