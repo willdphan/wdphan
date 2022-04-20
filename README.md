@@ -3,7 +3,6 @@
 ![Hey, I'm Will (1)](https://user-images.githubusercontent.com/95723185/164299368-9a2997fa-2946-4dfe-94a9-740b0b2af378.png)
 <h1 align="left">Hey, I’m Will! 👋 </h1>
 <h3 align="left">I'm a sophomore in college majoring in business management.</h3>
-
 <h2 align="left"> In my spare time, I'm exploring web3.</h2>
 
 <br>
