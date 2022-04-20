@@ -1,8 +1,8 @@
 <p align="center">
 ![Banner](https://user-images.githubusercontent.com/27993147/95005457-01b1ea80-05c7-11eb-8950-b7c3d68f1be6.png)
 
-<h1 align="center">Hey, I’m Will! 👋 </h1>
-<h3 align="center">I'm a sophomore in college majoring in business management. In my spare time, I'm exploring web3.</h3>
+<h1 align="left">Hey, I’m Will! 👋 </h1>
+<h3 align="left">I'm a sophomore in college majoring in business management. In my spare time, I'm exploring web3.</h3>
 
 <p align="left">  </p>
 
