@@ -5,9 +5,7 @@
   
 <h1 align="left">Hey, I’m Will! 👋 </h1>
 <h3 align="left">I'm a sophomore in college majoring in business management.</h3>
-<h2 align="left"> In my spare time, I'm exploring web3.</h2>
-
-<div></div>
+<h2 align="left"> In my spare time, I'm exploring web3.</h2><br>
 
 <p align="left">  </p>
 
