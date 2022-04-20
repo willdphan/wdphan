@@ -3,6 +3,7 @@
 ![Hey, I'm Will (1)](https://user-images.githubusercontent.com/95723185/164299368-9a2997fa-2946-4dfe-94a9-740b0b2af378.png)
 <h1 align="left">Hey, I’m Will! 👋 </h1>
 <h3 align="left">I'm a sophomore in college majoring in business management. In my spare time,<h1>I'm exploring web3.</h1></h3>
+
 <br>
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
@@ -44,7 +45,7 @@
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<br>
+
 <br>
 
 ## 📈 GitHub Stats 
