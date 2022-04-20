@@ -1,6 +1,8 @@
 <p align="center">
 
-![street-1](https://user-images.githubusercontent.com/95723185/164298584-c8de38ee-2954-4f03-a27b-57ad146fe253.gif)
+https://www.canva.com/design/DAE-ctnd09g/cbk1GfuqSnstihylYbuR3A/edit?utm_content=DAE-ctnd09g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  
+  
 
 <h1 align="left">Hey, I’m Will! 👋 </h1>
 <h3 align="left">I'm a sophomore in college majoring in business management. In my spare time, I'm exploring web3.</h3>
