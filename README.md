@@ -1,6 +1,7 @@
 <p align="center">
 
-![Hey, I'm Will](https://user-images.githubusercontent.com/95723185/164299077-6352b5cf-7b91-43f8-bb23-6d31e50d9f49.gif)
+![Hey, I'm Will (1)](https://user-images.githubusercontent.com/95723185/164299368-9a2997fa-2946-4dfe-94a9-740b0b2af378.png)
+
   
 <h1 align="left">Hey, I’m Will! 👋 </h1>
 <h3 align="left">I'm a sophomore in college majoring in business management. In my spare time, I'm exploring web3.</h3>
