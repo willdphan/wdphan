@@ -23,6 +23,10 @@
 <a href="https://medium.com/@joncanales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joncanales" height="30" width="40" /></a>
 </p>
 
+## 📈 GitHub Stats 
 
+[![Will's github stats](https://github-readme-stats.vercel.app/api?username=wdphan)](https://github.com/wdphan)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=wdphan.wdphan)](https://www.wdphan.dev/)
 
 
