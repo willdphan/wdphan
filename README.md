@@ -1,9 +1,7 @@
 <p align="center">
 
-https://www.canva.com/design/DAE-ctnd09g/cbk1GfuqSnstihylYbuR3A/edit?utm_content=DAE-ctnd09g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Hey, I'm Will](https://user-images.githubusercontent.com/95723185/164299077-6352b5cf-7b91-43f8-bb23-6d31e50d9f49.gif)
   
-  
-
 <h1 align="left">Hey, I’m Will! 👋 </h1>
 <h3 align="left">I'm a sophomore in college majoring in business management. In my spare time, I'm exploring web3.</h3>
 
