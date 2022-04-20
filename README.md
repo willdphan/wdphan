@@ -41,5 +41,5 @@
 
 ## 📈 GitHub Stats 
 
-[![Will's github stats](https://github-readme-stats.vercel.app/api?username=wdphan&theme=jolly&show_icons=true&count_private=true&hide_border)
+[![Will's github stats](https://github-readme-stats.vercel.app/api?username=wdphan&theme=jolly&show_icons=true&count_private=true&hide_border=true)
 
