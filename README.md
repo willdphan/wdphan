@@ -27,6 +27,3 @@
 
 [![Will's github stats](https://github-readme-stats.vercel.app/api?username=wdphan)](https://github.com/wdphan)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=wdphan.wdphan)](https://www.wdphan.dev/)
-
-
