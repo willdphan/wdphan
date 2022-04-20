@@ -2,7 +2,7 @@
 
 ![Hey, I'm Will (1)](https://user-images.githubusercontent.com/95723185/164299368-9a2997fa-2946-4dfe-94a9-740b0b2af378.png)
 <h1 align="left">Hey, I’m Will! 👋 </h1>
-<h3 align="left">I'm a sophomore in college majoring in business management. In my spare time, <strong>I'm exploring web3.<strong</h3>
+<h3 align="left">I'm a sophomore in college majoring in business management. In my spare time,</h3><h2>I'm exploring web3.</h2>
 <br>
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
