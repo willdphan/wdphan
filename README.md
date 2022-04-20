@@ -1,6 +1,6 @@
 <p align="center">
-  
-![cd04d43e1daef321680c63afcfddc346](https://user-images.githubusercontent.com/95723185/164296899-c9c5a2ba-6be6-4123-b43a-5309b4376bf3.jpeg)
+
+![street-1](https://user-images.githubusercontent.com/95723185/164298584-c8de38ee-2954-4f03-a27b-57ad146fe253.gif)
 
 <h1 align="left">Hey, I’m Will! 👋 </h1>
 <h3 align="left">I'm a sophomore in college majoring in business management. In my spare time, I'm exploring web3.</h3>
