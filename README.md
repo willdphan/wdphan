@@ -9,7 +9,7 @@
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning **React.js/Python/Flask**
+- 🌱 I’m currently learning **React.js/JavaScript/SQL**
 
 - 👨‍💻 All of my projects are available at [joncanales.dev](joncanales.dev)
 
