@@ -4,7 +4,7 @@
 
   
 <h1 align="left">Hey, I’m Will! 👋 </h1>
-<h3 align="left">I'm a sophomore in college majoring in business management. In my spare time, I'm exploring web3.</h3>
+<h3 align="left">I'm a sophomore in college majoring in business management. <br> In my spare time, I'm exploring web3.</h3>
 
 <p align="left">  </p>
 
