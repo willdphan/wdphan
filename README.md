@@ -49,5 +49,5 @@
 ## 📈 GitHub Stats 
 
 ![Will's github stats](https://github-readme-stats.vercel.app/api?username=wdphan&theme=jolly&show_icons=true&count_private=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdphan&theme=jolly&hide_border=true)](https://github.com/wdphan/github-readme-stats)
 
