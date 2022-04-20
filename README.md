@@ -41,5 +41,5 @@
 
 ## 📈 GitHub Stats 
 
-[![Will's github stats](https://github-readme-stats.jolly.app/api?username=wdphan)](https://github.com/wdphan)
+[![Will's github stats](https://github-readme-stats.vercel.app/api?username=wdphan&theme=jolly&show_icons=true)
 
