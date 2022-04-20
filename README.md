@@ -13,7 +13,6 @@
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)
 
 <br>
-<br>
 
 ## About Me
 
@@ -23,7 +22,15 @@
 - 👨‍💻 All of my projects are available at [joncanales.dev](joncanales.dev)<br>
 - 📝 I regulary write articles on [medium.com/@joncanales](medium.com/@joncanales)<br>
 - 📫 How to reach me **https://linkedin.com/in/joncanales**
-<br>
+<br><br>
+
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+<br><br>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,22 +39,10 @@
 - [How to Add Google Fonts to Your Next.js Website](https://enlear.academy/how-to-add-google-fonts-to-your-next-js-website-e62272a0ff57?source=rss-fe04a352a811------2)
 - [Create Your First AWS CDK App to Understand its Power](https://medium.com/geekculture/create-your-first-aws-cdk-app-to-understand-its-power-ba2f0501cfdc?source=rss-fe04a352a811------2)
 - [Add Google Analytics to a Next.js Application](https://enlear.academy/add-google-analytics-to-a-next-js-application-5525892844db?source=rss-fe04a352a811------2)
-
-<br>
-
-## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-
-<br>
-<br>
 <br>
 
 ## 📈 GitHub Stats 
-
-![Will's github stats](https://github-readme-stats.vercel.app/api?username=wdphan&theme=jolly&show_icons=true&count_private=true&hide_border=true)
-![Will's github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wdphan&theme=jolly)
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=wdphan&show_icons=true&count_private=true&theme=jolly&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=wdphan&layout=compact&hide_border=true&theme=jolly&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=wdphan&theme=jolly&hide_border=true&background=00000000">
