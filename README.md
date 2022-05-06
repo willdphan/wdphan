@@ -2,7 +2,7 @@
 
 ![Hey, I'm Will (2)](https://user-images.githubusercontent.com/95723185/164336547-be0b502b-85b6-4999-be8d-3db9aa8185c6.png)
 <h1 align="left">Hey, I’m Will! 👋 </h1>
-<p align="left">I'm a sophomore in college majoring in business management. Currently, I'm acquiring my development skills in my free time. Aside from dev, I'm exploring web3 and writing about projects that interest me. Feel free to reach out where I'm most active - Email or Twitter!</p>
+<p align="left">I'm a sophomore in college majoring in business management. Currently, I'm acquiring my development skills in my free time. Aside from dev, I'm exploring web3 and write about projects that interest me. Feel free to reach out where I'm most active - Email or Twitter!</p>
 
 <br>
 
