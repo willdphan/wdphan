@@ -18,7 +18,7 @@
 <!-- LIST-ABOUT-ME:START -->
 <p align="left">  </p>
 
-- 🌱 I’m currently learning **JavaScript/React.js**<br>
+- 🌱 I’m currently learning **React.js**<br>
 - 👨‍💻 Learn more about me and my projects at [willdphan.com](https://frost-sloop-bbc.notion.site/William-Phan-1ed95d22d6bf410db8c8f47179a2bf9c)<br>
 - 📝 I regulary write threads on [twitter.com/@willdphan](https://twitter.com/willdphan)<br>
 - 💠 Track my web3 learnings at [notion.com/Web3-Learnings](https://frost-sloop-bbc.notion.site/Web3-Learnings-54d10d04cee848e082cae8a62e7be8e2)<br>
