@@ -42,10 +42,3 @@
 - [Solidly](https://twitter.com/willdphan/status/1499130891951616001?s=20&t=mk_1le_5iF2Kg3ufdx25Rw)
 - [Karafuru NFT](https://twitter.com/willdphan/status/1495893360426594314?s=20&t=qX8_4WMpp1NUySJKzD4AgA)
 <br>
-
-## 📈 GitHub Stats
-<!-- GIHUB-STATS:START -->
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=wdphan&show_icons=true&count_private=true&theme=jolly&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=wdphan&layout=compact&hide_border=true&theme=jolly&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=wdphan&theme=jolly&hide_border=true&background=00000000">
