@@ -33,12 +33,3 @@
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="solidity" src="https://img.shields.io/badge/solidity-3DDC84?logo=solidity&logoColor=white&style=for-the-badge" />
 <br><br>
-
-## Some Writings
-<!-- BLOG-POST-LIST:START -->
-- [Anchor vs AAVE](https://twitter.com/willdphan/status/1506736287809744900?s=20&t=IDlymw2ZuekM0tGZxkz1jQ)
-- [Terra Payments](https://twitter.com/willdphan/status/1504567083027337223?s=20&t=IDlymw2ZuekM0tGZxkz1jQ)
-- [JUNO Blockchain](https://twitter.com/willdphan/status/1498017486150803467?s=20&t=qX8_4WMpp1NUySJKzD4AgA)
-- [Solidly](https://twitter.com/willdphan/status/1499130891951616001?s=20&t=mk_1le_5iF2Kg3ufdx25Rw)
-- [Karafuru NFT](https://twitter.com/willdphan/status/1495893360426594314?s=20&t=qX8_4WMpp1NUySJKzD4AgA)
-<br>
