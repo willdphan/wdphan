@@ -25,7 +25,6 @@
 - 📫 How to reach me **willdphan@gmail.com**
 <br><br>
 
-## Programming Languages
 <!-- LANGUAGES-ICONS:START -->
 <img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=html&logoColor=white" />
 <img align="left" alt="css" src="https://img.shields.io/badge/css-%23316192.svg?&style=for-the-badge&logo=css&logoColor=white" />
