@@ -2,7 +2,7 @@
 
 ![Hey, I'm Will](https://user-images.githubusercontent.com/95723185/170179944-fe931093-255b-4c76-b651-35c4148682bf.png)
 <h1 align="left">Hey, I’m Will! 👋 </h1>
-<p align="left">Currently acquiring my dev skills in my free time. I'm exploring web3 and write about projects that interest me. <br>Feel free to reach out where I'm most active - Email or Twitter!</p>
+<p align="left">Currently acquiring my dev skills in my free time. I explore and write about projects that interest me. <br>Feel free to reach out where I'm most active - Email or Twitter!</p>
 
 <br>
 
