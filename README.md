@@ -1,6 +1,5 @@
 <p align="center">
 <p align="left">Currently acquiring my dev skills in my free time. I explore and write about projects that interest me. <br>Feel free to reach out where I'm most active - Email or Twitter!</p>
-
 <br>
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/willphan/)
@@ -9,8 +8,6 @@
 [<img align="left" alt="notion" src="https://img.shields.io/badge/notion-%2312100E.svg?&style=for-the-badge&logo=notion&logoColor=white" />](https://frost-sloop-bbc.notion.site/Web3-Learnings-54d10d04cee848e082cae8a62e7be8e2)
 
 <br>
-
-## About Me
 <!-- LIST-ABOUT-ME:START -->
 <p align="left">  </p>
 
