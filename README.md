@@ -10,8 +10,8 @@
 <!-- LIST-ABOUT-ME:START -->
 <p align="left">  </p>
 
-- 👨‍💻 Learn more about me at [willdphan.com](https://willphan.com/)<br>
-- 📝 Regulary write on [twitter.com/@willdphan](https://twitter.com/willdphan)<br>
-- 💠 Track my web3 learnings at [notion.com/Web3-Learnings](https://frost-sloop-bbc.notion.site/Web3-Learnings-54d10d04cee848e082cae8a62e7be8e2)<br>
-- 📫 Reach me at **willdphan@gmail.com**
-<br><br>
+👨‍💻 Learn more about me at [willdphan.com](https://willphan.com/)<br>
+📝 Regulary write on [twitter.com/@willdphan](https://twitter.com/willdphan)<br>
+💠 Track my web3 learnings at [notion.com/Web3-Learnings](https://frost-sloop-bbc.notion.site/Web3-Learnings-54d10d04cee848e082cae8a62e7be8e2)<br>
+📫 Reach me at **willdphan@gmail.com**
+
