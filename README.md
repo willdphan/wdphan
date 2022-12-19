@@ -1,5 +1,5 @@
 <p align="center">
-<p align="left">Currently acquiring my dev skills in my free time. I explore and write about projects that interest me. <br> Feel free to reach out where I'm most active - Email or Twitter!</p>
+<p align="left">Currently acquiring my dev skills in my free time. I explore and work on projects that interest me. <br> Feel free to reach out where I'm most active - Email or Twitter!</p>
 
 <br>
 
