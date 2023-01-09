@@ -12,6 +12,6 @@
 <!-- LIST-ABOUT-ME:START -->
 <p align="left">  </p>
 
-Learn more about me at [willdphan.com](https://willphan.com/)<br>
+Learn more about me at [willphan.com](https://willphan.com/)<br>
 Reach me at **willdphan@gmail.com**
 
